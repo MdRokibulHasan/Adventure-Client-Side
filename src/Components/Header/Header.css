@@ -1,0 +1,12 @@
+ a{
+    text-decoration: none;
+    font-size: large;
+    margin: 10px;
+    color: black;
+    font-weight: 600;
+}
+a:focus{
+    border-bottom: 3px solid blue;
+    color: crimson;
+    
+}

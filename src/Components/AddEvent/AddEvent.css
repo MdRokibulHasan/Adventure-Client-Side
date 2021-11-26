@@ -1,0 +1,19 @@
+
+/* .add-events{
+    display: flex;
+
+}
+.events-image img{
+    width: 100%;
+} */
+
+.add-service form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.add-service form input, textarea{
+    width: 40%;
+    margin-bottom: 10px;
+}

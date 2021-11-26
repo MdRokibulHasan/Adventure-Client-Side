@@ -1,0 +1,46 @@
+ .row-section{
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 1.5rem;
+    margin: 30px;
+}
+.contact .row-section .image{
+    flex: 1 1 35rem;
+}
+.contact .row-section .image img{
+    width: 100%;
+}
+.contact .row-section .form{
+    flex: 1 1 50rem; 
+    padding: 2rem;
+    box-shadow: 0 1rem 2rem rgba(0,0,0,1);
+    border-radius: .5rem;
+}
+.contact .row-section .form .inputBox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.contact .row-section .form .inputBox input,.contact .row-section .form textarea{
+width: 49%;
+margin: 1rem 0;
+padding: 1rem;
+font-size: 1.7rem;
+color: #333;
+background: #f7f7f7;
+}
+.contact .row-section .form textarea{
+    height: 10rem;
+    resize: none;
+    width: 100%;
+}
+
+.btn-message{
+    padding: 10px;
+    width: 230px;
+    background-color: rgb(245, 179, 11);
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    border: none;
+}

@@ -1,0 +1,12 @@
+#heading-text{
+    color: #00095e;
+}
+.book-now{
+    padding: 10px;
+    width: 230px;
+    background-color: rgb(245, 179, 11);
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    border: none;
+}

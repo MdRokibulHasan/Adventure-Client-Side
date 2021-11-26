@@ -1,0 +1,162 @@
+ [
+  {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "tourPlace": "Laboni Beach-Inani Beac",
+    "agency": "Go Travels",
+    "cost": 1999,
+    "date": 2,
+    "img": "https://i.ibb.co/FB747n8/1595860222.jpg",
+    "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh.It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+  },
+  {
+    "id": 2,
+    "name": "Sreemangal",
+    "tourPlace": "Lawachara National Park ",
+    "agency": "Progotie Travels",
+    "cost": 2299,
+    "date": 2,
+    "img": "https://i.ibb.co/njBzZhY/sreemangal2.jpg",
+    "description": "It is said the destination Sreemangal (or Srimangal) is destinationd after Sri Das and Mangal Das; two brothers who settled on the banks of the Hail Haor.[2] A copper plate of Raja Marundanath from the 11th century was found in Kalapur.During an excavation at Lamua, an ancient statue of Ananta Narayan was dug out. In 1454,the Nirmai Shiva Bari was built and still stands today."
+  },
+  {
+    "id": 3,
+    "name": "Sundarbans",
+    "tourPlace": "Sundarban",
+    "agency": "Pro Travels",
+    "cost": 999,
+    "date": 1,
+    "img": "https://i.ibb.co/XsdTYyk/Royal-Bengal-Tiger.jpg",
+    "description": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh."
+  },
+  {
+    "id": 4,
+    "name": "Sajek Valley",
+    "tourPlace": "Konglak Hill-Ruilui Para",
+    "agency": "Progotie Travel",
+    "cost": 2599,
+    "date": 3,
+    "img": "https://i.ibb.co/LZq8dNp/16071485352b.jpg",
+    "description": "Sajek Valley is one of the popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet (610 m) above sea level.Sajek valley is known as the Queen of Hills & Roof of Rangamati."
+  },
+  {
+    "id": 5,
+    "name": "Sylhet",
+    "tourPlace": "Tanguar Haor-Bisnakandi ",
+    "agency": "Duha Travels",
+    "cost": 1990,
+    "date": 2,
+    "img": "https://i.ibb.co/KDjFffJ/Sylhet.jpg",
+    "description": "Sylhet is a metropolitan city in northeastern Bangladesh. Sylhet has a subtropical climate and lush highland terrain. [1] Sylhet is one of the most important spiritual and cultural centres in Bangladesh. Furthermore, it is one of the most economically important cities in the country after Dhaka and Chittagong. The city produces the highest amount of tea and gas in the country."
+  },
+  {
+    "id": 6,
+    "name": "Kishorganj Nikli Haor",
+    "tourPlace": "Nikli-Mithamoin",
+    "agency": "Anik Travels",
+    "cost": 990,
+    "date": 1,
+    "img": "https://i.ibb.co/0MSjW6n/nikli.jpg",
+    "description": "Nikli haor is one of the beautiful tourist places in Kishoreganj. It is situated at Nikli Upazila in Kishoreganj. The distance from Kishoreganj to Nikli is around 25 kilometers. You will be able to travel Dhaka to Nikli within one day."
+  },
+  {
+    "id": 7,
+    "name": "Bandarban",
+    "tourPlace": "Nilgiri Mountains-Nafa-khum",
+    "agency": "Go Travels",
+    "cost": 2490,
+    "date": 3,
+    "img": "https://i.ibb.co/rwXZ270/bandarban.jpg",
+    "description": "Bandarban is the pious hub of Theravada Buddhism practiced by tribal communities like Marma or Mogh. Here you will find Buddha Dhatu Jadi, the largest Theravada Buddhist Temple of Bangladesh and the second biggest Buddha sculpture in the country. This Buddhist temple is called 'kyang' in the local language."
+  },
+  {
+    "id": 8,
+    "name": "Saint Martin",
+    "tourPlace": "Saint Martin",
+    "agency": "Progotie Travels",
+    "cost": 4990,
+    "date": 5,
+    "img": "https://i.ibb.co/WK91YZR/Saint-Martin.jpg",
+    "description": "The little enclave of Saint Martin is like nowhere else in Bangladesh as this is the only coral island in the country.The region is covered in shifting sands and lapping seas, all nestled close to coconut groves.In many ways it looks more like the Caribbean than South Asia, and you will find delicious seafood here including fiery curries.Scuba diving is also a popular pastime, so if you want to check out some of the country’s amazing aquatic life then this is the place to do it."
+  },
+  {
+    "id": 9,
+    "name": "Sonargaon",
+    "tourPlace": "Sonargaon",
+    "agency": "Pro Travels",
+    "cost": 1990,
+    "date": 3,
+    "img": "https://i.ibb.co/PWZNKLJ/Sonargaon.jpg",
+    "description": "Sonargaon used to be a thriving trading hub but now it is something of a ghost town that straddles the Ganges.Here you will find eerie carved mansions and docks, old mosques, and jungle vines twisting in between everything.If you want to see a completely different side of Bangladesh that many people don’t experience, then this is the place to come."
+  },
+  {
+    "id": 10,
+    "name": "Saint Martin",
+    "tourPlace": "Saint Martin",
+    "agency": "Go Go Travels",
+    "cost": 990,
+    "date": 1,
+    "img": "https://i.ibb.co/frjVT8d/Saint-Martin.jpg",
+    "description": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh."
+  },
+  {
+    "id": 11,
+    "name": "Sundarbans",
+    "tourPlace": "Lawachara National Park",
+    "agency": "Pro Travels",
+    "cost": 1590,
+    "date": 2,
+    "img": "https://i.ibb.co/wrD7SJ2/sundorbon.jpg",
+    "description": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh."
+  },
+  {
+    "id": 12,
+    "name": "Sundarbans",
+    "tourPlace": "Lawachara National Park-Madhabpur Lake-Hiron Point",
+    "agency": "Go Travels",
+    "cost": 6990,
+    "date": 5,
+    "img": "https://i.ibb.co/wrD7SJ2/sundorbon.jpg",
+    "description": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh."
+  },
+  {
+    "id": 13,
+    "name": "Sundarbans",
+    "tourPlace": "Karamjol-Hiron Point",
+    "agency": "Anik Travels",
+    "cost": 2990,
+    "date": 3,
+    "img": "https://i.ibb.co/52bY9LB/sundorbon.png",
+    "description": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh."
+  },
+  {
+    "id": 14,
+    "name": "Sundarbans",
+    "tourPlace": "Kotka-Beach",
+    "agency": "All Around Travels",
+    "cost": 990,
+    "date": 1,
+    "img": "https://i.ibb.co/fMbLx1k/Kotka-Beach.jpg",
+    "description": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh."
+  },
+  {
+    "id": 15,
+    "name": "Sundarbans",
+    "tourPlace": "Karamjol-Hiron Point",
+    "agency": "Anik Travels",
+    "cost": 3990,
+    "date": 4,
+    "img": "https://i.ibb.co/wrD7SJ2/sundorbon.jpg",
+    "description": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh."
+  },
+  {
+    "id": 16,
+    "name": "Sundarbans",
+    "tourPlace": "Hiron Point",
+    "agency": "Anik Travels",
+    "cost": 2290,
+    "date": 3,
+    "img": "https://i.ibb.co/wrD7SJ2/sundorbon.jpg",
+    "description": "The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh."
+  }
+]
