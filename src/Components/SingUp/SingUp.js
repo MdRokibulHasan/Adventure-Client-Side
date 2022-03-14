@@ -17,9 +17,9 @@ const SingUp = () => {
                             <input type="password" aria-label="First name" class="form-control" placeholder="password" />
                         </div>
                         <div>
-                            <button className="log-button">Sing Up</button>
+                            <button className="log-button">Sign Up</button>
 
-                            <p>Already have Account<a href="/singin">Sing In</a></p>
+                            <p>Already have Account<a href="/singin">Sign In</a></p>
                         </div>
 
                     </div>

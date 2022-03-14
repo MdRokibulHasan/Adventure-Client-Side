@@ -42,10 +42,10 @@ const SingIn = () => {
                             <button className="log-button">Log In</button>
                             <p className="link">
                                 <a href="#">Forget Password</a></p>
-                            <p><a href="/singup">Sing Up</a></p>
+                            <p><a href="/singup">Sign Up</a></p>
                         </div>
                         <button onClick={handleGoogleLogin}
-                            className="link-button">Google Sing IN</button>
+                            className="link-button">Google Sign IN</button>
                     </div>
 
                 </div>

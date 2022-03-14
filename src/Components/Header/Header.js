@@ -12,7 +12,7 @@ const Header = () => {
         <div>
             <div className="d-flex justify-content-between m-3">
 
-                <h1>Go Travel</h1>
+                <h1>Go Travels</h1>
                 <p>{<i class="bi bi-telephone-plus-fill"></i>} 01000000000</p>
             </div>
             <Nav className="justify-content-end" >
@@ -59,11 +59,11 @@ const Header = () => {
                 <p>{user?.displayName}</p>
                 {
                     user?.email ?
-                        <button onClick={logOut}>Sing Out</button>
+                        <button onClick={logOut}>Sign Out</button>
                         :
                         <Nav.Item>
                             <Link to="singin" >
-                                Sing In
+                                Sign In
                             </Link>
                         </Nav.Item>
                 }

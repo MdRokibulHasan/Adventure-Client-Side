@@ -7,7 +7,7 @@ const Services = () => {
     return (
         <div>
             <div className="text-center m-3">
-                <p>Check Our Best Promotional Tour</p>
+                {/* <p>Check Our Best Promotional Tour</p> */}
                 <h1>Upcoming Events</h1>
             </div>
             <div className="row">

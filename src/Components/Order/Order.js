@@ -16,7 +16,7 @@ const Order = (props) => {
 
     const getStatus = (status) => {
 
-        return (status == 1) ? "pendding" : "Active"
+        return (status == 1) ? "Pending" : "Active"
 
     }
     // console.log(status);
